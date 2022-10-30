@@ -1,0 +1,10 @@
+[ 
+    {
+        "product": "product1",
+        "file": "product1.py"
+    },
+    {
+        "product": "product2",
+        "file": "product2.py"
+    }
+]
